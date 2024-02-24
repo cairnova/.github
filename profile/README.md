@@ -1,7 +1,7 @@
-# Welcome to the MountainOS GitHub page! 👋
+# Welcome to the Project Altitude GitHub page! 👋
 
 ## Who are we
-We are the developers MountainOS. We are working towards creating a system that is usable for everyone, and built for the future.
+We are the developers of Project Altitude, which includes MountainOS, SNOW and Valley Suite. We are working towards creating a system that is usable for everyone, and built for the future.
 
 ## How to help
-MountainOS is fully open source. By opening merge requests of telling us about issues, you could be a part of history!
+All projects under Project Altitude are fully open source. By opening merge requests of telling us about issues, you could be a part of history!
